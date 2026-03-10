@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'brockman';
+					src: url('6698brockman.woff2') format('woff2'),
+						url('6698brockman.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.brockman{font-family: 'brockman' !important;}
+
+		
